@@ -15,4 +15,7 @@ Alternatively, you can install the theme yourself by downloading and extracting
 the [zip archive](http://github.com/downloads/inukshuk/gears.textmate/gears.zip)
 to `~/Library/Application Support/TextMate/Themes/Webpreview/`.
 
+The next time you open a TextMate Web Preview, for example, when browsing
+RDoc entries, you can select 'Gears' from the translucent theme picker.
+
 Enjoy!
