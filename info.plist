@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactName</key>
+	<string>Sylvester Keil</string>
+	<key>description</key>
+	<string>Theme for commands with HTML output</string>
+	<key>name</key>
+	<string>Gears Web Preview Theme</string>
+	<key>uuid</key>
+	<string>EE8CCB53-0AE8-46EF-B80C-C309EBAD63D5</string>
+</dict>
+</plist>
