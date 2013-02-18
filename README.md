@@ -8,12 +8,8 @@ display RDoc information. Take a look at a screenshot
 Installation
 ------------
 
-    $ mkdir -p ~/Library/Application\ Support/TextMate/Themes/Webpreview
-    $ curl -L http://github.com/downloads/inukshuk/gears.textmate/gears.tar.gz | funzip | tar xf - -C ~/Library/Application\ Support/TextMate/Themes/Webpreview/
-
-Alternatively, you can install the theme yourself by downloading and extracting
-the [zip archive](http://github.com/downloads/inukshuk/gears.textmate/gears.zip)
-to `~/Library/Application Support/TextMate/Themes/Webpreview/`.
+You can install this bundle in TextMate by opening the preferences and going to
+the bundles tab. After installation it will be automatically updated for you.
 
 The next time you open a TextMate Web Preview, for example, when browsing
 RDoc entries, you can select 'Gears' from the translucent theme picker.
